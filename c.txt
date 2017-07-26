@@ -1,1 +1,6 @@
-not goo aaaad
+<<<<<<< HEAD
+good ok
+
+=======
+good ok
+>>>>>>> cf65f2b2f9dabc8f07bfcbb67ba7dc88436d9a41
