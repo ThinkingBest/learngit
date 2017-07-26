@@ -6,4 +6,5 @@ Git tracks changes
 Creating a new brach is quick and simple
 =======
 Creating a new brach is quick and not  simple`
+Git is free sofeware
 >>>>>>> featurel
